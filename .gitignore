@@ -1,0 +1,24 @@
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
+# Generated prediction output
+submission.csv
+submission (1).csv
+
+# Local data and temporary files
+*.log
+.DS_Store
